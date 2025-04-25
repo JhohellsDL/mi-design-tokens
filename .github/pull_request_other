@@ -1,0 +1,15 @@
+# 🐞 PR: Bugfix
+
+> ⚠️ Esta plantilla es para correcciones de errores o fixes menores.
+
+## ✅ Checklist
+
+- [ ] Se agregó un test que reproduzca el bug.
+- [ ] El fix no afecta otros componentes.
+- [ ] Se probó visualmente (si aplica).
+- [ ] Se añadió descripción clara del bug y su solución.
+
+## 🐛 Detalles del error
+
+- Error reportado:
+- Solución aplicada:
