@@ -3,7 +3,7 @@
 **Ride Design Tokens** es una librería de **tokens de diseño** para aplicaciones en **React Native** con **Expo y Tamagui**. Proporciona colores, tamaños de fuente, espaciados y otros estilos reutilizables para garantizar **consistencia y escalabilidad** en el diseño.
 
 ## 📦 Instalación
-
+ asdasd
 Puedes instalar esta librería con **npm** o **yarn**:
 
 ```sh
