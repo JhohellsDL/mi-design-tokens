@@ -41,4 +41,5 @@ export const colors = {
   ride_sys_color_text_extreme: "ride_gl_color_neutral_100",
   ride_sys_color_text_disabled: "ride_gl_color_neutral_50",
   ride_sys_color_text_inverse: "ride_gl_color_neutral_0",
+  ride_sys_transparent: "ride_gl_color_neutral_0",
 } as const;
